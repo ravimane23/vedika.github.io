@@ -380,11 +380,11 @@ a:focus {
 
 #navbarmain .nav-link {
   font-weight: 600;
-  padding: 10px 15px;
+  padding: 5px 10px;
   color: #222;
   font-family: "Exo", sans-serif;
   text-transform: capitalize;
-  font-size: 16px;
+  font-size: 26px;
   transition: all .25s ease;
 }
 
@@ -518,7 +518,7 @@ a:focus {
   }
   .banner {
     min-height: 450px;
-    background: #fff !important;
+    /*background: #fff !important;*/
   }
 }
 
@@ -529,7 +529,7 @@ a:focus {
   }
   .banner {
     min-height: 450px;
-    background: #fff !important;
+    /*background: #fff !important;*/
   }
 }
 
@@ -539,13 +539,13 @@ a:focus {
     line-height: 70px;
   }
   .banner {
-    background: #fff !important;
+    /*background: #fff !important;*/
   }
 }
 
 @media (max-width: 992px) {
   .banner {
-    background: #fff !important;
+    /*background: #fff !important;*/
   }
 }
 
